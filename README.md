@@ -1,7 +1,6 @@
 # DCDC-LOAD-GUI
 Load GUI and Arduino code for DCDC load. Requires python installation. 
 
-
 ## Dependencies
 TKINTER:
 ```
@@ -13,4 +12,4 @@ pip install pyserial
 ```
 
 ## Port setting
-Open with text editor and search for port and change the port to the correct port of the arduino.
+Open with text editor and search for "port=" to modify the port to arduino.
