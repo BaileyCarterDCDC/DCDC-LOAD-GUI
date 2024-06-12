@@ -12,4 +12,4 @@ pip install pyserial
 ```
 
 ## Port setting
-Open with text editor and search for "port=" to modify the port to arduino.
+Open with text editor and search for "port=" to change to correct port connecting the arduino.
