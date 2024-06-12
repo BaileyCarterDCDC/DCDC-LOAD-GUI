@@ -6,7 +6,7 @@ TKINTER:
 ```
 pip install tk
 ```
-Serial: 
+PYSerial: 
 ```
 pip install pyserial
 ```
